@@ -1,4 +1,4 @@
-<div class="alert alert-block" style = "background-color: black">
+<div style = "background-color: black">
     <p><b><font size="+4" color="orange">Python-Essentials-For-Machine-Learning</font></b></p>
     <p><b><font size="+1" color="white">by Jubril Davies</font></b></p>
     </div>
